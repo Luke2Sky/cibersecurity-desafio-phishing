@@ -14,8 +14,12 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://gmail.com/
+
+### OBS.:
+Houveram erros para o facebook. Eu assumo que eles devem ter inserido algum JavaScript que dificulta o clone direto do site. Eu usei o template pronto do google.com 
 
 ### Resutados
 
+![Alt text](./google.png "Optional title")
 ![Alt text](./passwd.png "Optional title")
